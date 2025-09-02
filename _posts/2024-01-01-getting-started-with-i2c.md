@@ -20,6 +20,8 @@ I2C is a synchronous, multi-master, multi-slave, packet switched, single-ended, 
 - **Address-based communication**: Each slave device has a unique 7-bit or 10-bit address
 - **Built-in arbitration**: Prevents conflicts when multiple masters try to control the bus
 
+## Current repo for code samples
+[text](https://github.com/bao1311/stm32f4xx_drivers)
 ## Coming Up
 
 In this I2C category, I'll be covering:
